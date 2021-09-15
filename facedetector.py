@@ -6,8 +6,6 @@ from random import randrange
 trained_face_data = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 
-#Choose an image to detect face here, using imread(image read) function 
-#img = cv2.imread('photo2.jpg')
 #To capture video from webcam
 webcam = cv2.VideoCapture(0)
 
