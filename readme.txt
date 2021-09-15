@@ -1,0 +1,1 @@
+Hi everyone, I created this small app with python, opencv
